@@ -1,5 +1,5 @@
 # Wordpress
-Contains webpage(s) that I made using Wordpress. 
+An archive for website(s) that I made using Wordpress. 
 
 ## Ability Connect
 
